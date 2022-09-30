@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3619854 */
+  src: url('iconfont.woff2?t=1661859670805') format('woff2'),
+       url('iconfont.woff?t=1661859670805') format('woff'),
+       url('iconfont.ttf?t=1661859670805') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tianqi-bingbao:before {
+  content: "\e609";
+}
+
+.icon-tianqi-leiyu:before {
+  content: "\e60a";
+}
+
+.icon-tianqi-baoyu:before {
+  content: "\e60b";
+}
+
+.icon-tianqi-duoyun:before {
+  content: "\e60c";
+}
+
+.icon-tianqi-dayu:before {
+  content: "\e60d";
+}
+
+.icon-tianqi-qing:before {
+  content: "\e60e";
+}
+
+.icon-tianqi-daxue:before {
+  content: "\e60f";
+}
+
+.icon-tianqi-shachen:before {
+  content: "\e610";
+}
+
+.icon-tianqi-shuang:before {
+  content: "\e611";
+}
+
+.icon-tianqi-wumai:before {
+  content: "\e612";
+}
+
+.icon-tianqi-xiaoxue:before {
+  content: "\e613";
+}
+
+.icon-tianqi-xiaoyu:before {
+  content: "\e614";
+}
+
+.icon-tianqi-xiaoyuzhuanqing:before {
+  content: "\e615";
+}
+
+.icon-tianqi-ye:before {
+  content: "\e616";
+}
+
+.icon-tianqi-yeduoyun:before {
+  content: "\e617";
+}
+
+.icon-tianqi-xuezhuanqing:before {
+  content: "\e618";
+}
+
+.icon-tianqi-yintian:before {
+  content: "\e619";
+}
+
+.icon-tianqi-yujiaxue:before {
+  content: "\e61a";
+}
+
+.icon-tianqi-zhongyu:before {
+  content: "\e61b";
+}
+
+.icon-tianqi-zhongxue:before {
+  content: "\e61c";
+}
+
